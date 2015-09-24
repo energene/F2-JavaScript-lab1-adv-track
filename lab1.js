@@ -151,6 +151,7 @@ for (var i = 0; i < mealsPerDay.length; i++) {
   }
 }
 console.log('tooHungryDay is Day ' + tooHungryDay); //checking our work
+console.log('test');
 assert(tooHungryDay, 'remember to assign the answer to tooHungryDay');
 assert(tooHungryDay < 10, 'the lion is too hungry before the end of the array');
 /* ==================================================================
